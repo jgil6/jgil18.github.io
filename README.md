@@ -1,6 +1,17 @@
 # JGIL18 WEB 🔥🧑‍🚀
 ## Caracteristiques
 Sóc una persona proactiva i organitzada i responsable, amb bona interpersonal relacions. Sempre tinc la millor disposició per portar fora la meva feina. Busco un repte feina.
+## Índex  
+- [📌 Característiques](#caracteristiques)  
+- [🎮 Aficions](#aficions)  
+- [💡 Habilitats](#habilitats)  
+- [🎓 Estudis](#estudis)  
+- [📞 Contactarme](#contactarme)  
+- [📷 Fotos](#fotos)  
+- [🆔 DNI ](#dni) 
+- [💻 Fragments de Codi](#fragments-de-codi)  
+- [📊 Taula](#taula)
+  
 ## Aficions
 1. Esport (gimnas, correr...)
 2. Dormir
@@ -12,16 +23,17 @@ Sóc una persona proactiva i organitzada i responsable, amb bona interpersonal r
 - Serio
 - Ambicios
 ## Estudis
-** ESO (Institut Montbui 2019-2023)
-** Grau SMX (NO FINALITZAT ENCARA)
+**ESO (Institut Montbui 2019-2023)**
 
-## CONTACTARME ** 
+**Grau SMX (NO FINALITZAT ENCARA)**
+
+## CONTACTARME 
 [http://instagram.com](url)
 
 ## FOTOS 
 ![FOTO MIA ](https://http2.mlstatic.com/D_NQ_NP_984244-MLM46214615312_052021-O.webp)0.
 
-## DNI *Major de edat
+## DNI 
 ![Documentacio ](https://m.media-amazon.com/images/I/51+CptJDWiL._AC_UF894,1000_QL80_.jpg)
 
 ## Fragments de Codi  
@@ -32,6 +44,31 @@ Bloc de codi:
 def salutacio():
     print("Hola, món!")
 salutacio()
+```
+```
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+```
+```
+console.log("Hola, món!");
+```
+```
+#include <stdio.h>
+
+int main() {
+    printf("Hola, món!\n");
+    return 0;
+}
+```
+```
+public class HolaMon {
+    public static void main(String[] args) {
+        System.out.println("Hola, món!");
+    }
+}
 ```
 ---
 
@@ -45,9 +82,6 @@ Funosa   |   6 anys   |	Igualada |
 Parlament   |   2 anys   |	Girona |
 
 ---
-
-Fes clic al botó per anar a una altra codi:  
-
 
 ## Zona preferiblement de treball
 ```geojson
@@ -86,7 +120,7 @@ Fes clic al botó per anar a una altra codi:
   ]
 }
 ```
-
+<hola>
 <a href="https://jgil6.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Visitar%20Pàgina-Click%20Aquí-blue?style=for-the-badge" alt="Botó">
 </a>
