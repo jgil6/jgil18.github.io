@@ -35,22 +35,22 @@ salutacio()
 ```
 ---
 
-#Taula
+# Taula
 
-Nom	Edat	Ciutat
-Anna	25	Barcelona
-Marc	30	Girona
+Empresa |	Durada   |	Ciutat |
+-------	|   -----:   |	--------- |
+Nike	|   3mesos   |	Barcelona |
+Amazon   |   2 anys   |	Girona |
+Funosa   |   6 anys   |	Igualada |
+Parlament   |   2 anys   |	Girona |
 
 ---
 
 Fes clic al botó per anar a una altra codi:  
 
-<a href="https://example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Visitar%20Pàgina-Click%20Aquí-blue?style=for-the-badge" alt="Botó">
-</a>
 
-##Zona preferiblement de treball
-
+## Zona preferiblement de treball
+```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -85,9 +85,11 @@ Fes clic al botó per anar a una altra codi:
     }
   ]
 }
+```
 
-
-
+<a href="https://jgil6.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Visitar%20Pàgina-Click%20Aquí-blue?style=for-the-badge" alt="Botó">
+</a>
 
 
 
